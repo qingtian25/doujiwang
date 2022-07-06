@@ -1,9 +1,9 @@
 ---
 title: "0xUniverse"
-description: "Conquer the blockchain-based galaxy!"
-lead: "Conquer the blockchain-based galaxy!"
-date: 2022-02-28T12:49:43.229+0800
-lastmod: 2022-02-28T12:49:43.229+0800
+description: "征服基于区块链的星系！"
+lead: "征服基于区块链的星系！"
+date: 2022-07-06T12:49:43.229+0800
+lastmod: 2022-07-06T12:49:43.229+0800
 draft: false
 featuredImage: "100_1537910900.png"
 score: "7"
@@ -31,7 +31,7 @@ appstore:
 categories: ["games"]
 games: ["Space"]
 toc: false
-pinned: true
+pinned: false
 weight: 
 ---
-0xUniverse is a revolutionary blockchain-based game. Become an explorer in a galaxy of unique, collectable planets. Colonize them to extract resources and build spacecrafts. Keep expanding your fleet until you've uncovered the final mysteries of the universe!
+0xUniverse 是一款革命性的基于区块链的游戏。 成为独特的、可收藏的行星星系中的探险家。 殖民他们以提取资源并建造航天器。 继续扩大你的舰队，直到你发现宇宙的最终奥秘！
