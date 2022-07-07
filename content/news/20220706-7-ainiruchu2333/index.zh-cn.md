@@ -1,6 +1,6 @@
 ---
 title: "中国版元宇宙”正在迅速发展"
-date: 2022-07-04T21:57:40+08:00
+date: 2022-07-07T16:40:40+08:00
 lastmod: 2022-07-05T16:45:40+08:00
 draft: false
 authors: ["MineW"]
@@ -9,7 +9,7 @@ featuredImage: "P.jpg"
 tags: ["元宇宙","中国"]
 categories: ["news"]
 news: ["元宇宙"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

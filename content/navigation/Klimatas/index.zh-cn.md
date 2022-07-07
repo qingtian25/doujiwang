@@ -1,0 +1,22 @@
+---
+weight: 
+title: "Klimatas区块浏览器"
+description: "Klimatas区块浏览器是Klimatas（KTS）的官方浏览器，提供交易查询，节点信息查询，代币分配信息，地址查询等功能"
+date: 2022-07-06T21:57:40+08:00
+lastmod: 2022-07-06T16:45:40+08:00
+draft: false
+authors: ["MineW"]
+featuredImage: "klimatasqukuailiulanqi.png"
+link: "https://explorer.klimatas.com/"
+tags: ["区块链浏览器","Klimatas区块浏览器"]
+categories: ["navigation"]
+navigation: ["区块链浏览器"]
+lightgallery: true
+toc: true
+pinned: false
+recommend: false
+recommend1: false
+---
+
+Klimatas区块浏览器是Klimatas（KTS）的官方浏览器，提供交易查询，节点信息查询，代币分配信息，地址查询等功能。
+一个加密投资平台，旨在帮助孩子并实现基于加密货币的本地社交项目

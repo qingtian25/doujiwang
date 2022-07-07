@@ -9,7 +9,7 @@ featuredImage: "hanguo.png"
 tags: ["Android","closed alpha","demo","Ethereum blockchain","GOG token","Guild of Guardians","mobile games"]
 categories: ["news","Action Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true
