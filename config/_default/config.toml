@@ -32,9 +32,6 @@ relativeUrls = true
   [params.subscribe]
   enable = false
 
-  [params.info]
-  keywords = "元宇宙导航,元宇宙项目"
-
   #  应用图标配置
   [params.app]
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
