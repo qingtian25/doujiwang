@@ -6,6 +6,9 @@ baseURL = "https://www.metabd.cc/"
 defaultContentLanguage = "zh-cn"
 relativeUrls = true
 
+# 是否生成robots文件
+enableRobotsTXT = true
+
 [params]
   #  DoIt 主题版本
   version = "0.2.X"
