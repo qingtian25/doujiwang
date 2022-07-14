@@ -1,12 +1,12 @@
----
+﻿---
 weight: 
 title: "ObEN"
-description: "ObEN以数字身份（DID）为核心，打造一个原生的元宇宙互动平台"
-date: 2022-03-25T21:57:40+08:00
-lastmod: 2022-03-25T16:45:40+08:00
+description: "ObEN, Avatar Generation, TTS(Text-To-Speech), Voice Conversion, Image Enhancement"
+date: 2022-07-11T21:57:40+08:00
+lastmod: 2022-07-11T16:45:40+08:00
 draft: false
-authors: ["cindy"]
-featuredImage: "195.jpg"
+authors: ["MineW"]
+featuredImage: "195.webp"
 link: "https://oben.me/"
 tags: ["ObEN","人工智能"]
 categories: ["navigation"]
@@ -17,4 +17,17 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-ObEN创立于2014年，总部位于美国洛杉矶，以数字身份（DID）为核心，打造一个原生的元宇宙互动平台。我们不仅为明星偶像、品牌提供专业的虚拟偶像和内容制作，而且每个用户以AI变身为个性化的数字身份，可以在平台参与互动，展示幻想中的自己。数字身份是每个人穿梭于虚实世界之间的载体，形成元宇宙的流量，产生新的互动体验和数字经济需求。ObEN已获11项美国专利，其中个性化变声技术和人脸三维重建专利居世界领先地位。
+阿凡达生成，TTS(文本到语音)，语音转换，图像增强 
+
+##### **‎创造/影响‎**
+
+‎我们正在为新一代数字人类注入生命，拥有完全定制的声音，外观和创造性的灵魂。‎
+
+##### **‎虚拟 IP +‎**‎ ‎‎内容‎
+
+‎我们将专有的人工智能技术和来自洛杉矶（全球娱乐中心）的深厚行业人才相结合，以更高的效率，更快的速度和更低的成本简化头像内容创建。‎
+
+##### 我们正在用‎‎虚拟人类‎‎填充世界‎
+‎谁讲故事，推动趋势， ‎‎ ‎‎创造体验‎
+‎结合 ‎‎ ‎‎尖端研究‎‎的核心‎
+‎与‎ ‎人类创造力的灵魂‎

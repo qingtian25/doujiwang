@@ -1,9 +1,9 @@
----
+﻿---
 weight: 
 title: "Jadu"
-description: "Jadu Hoverboards 是 NFT，可让您的化身在 Metaverse 中飞翔。与 Jadu 喷气背包一起，它们将成为 Jadu 的增强现实世界：Mirrorverse 中的关键运输机器。Jadu Hoverboards are NFTs that let your avatars fly in the Metaverse. Along with Jadu Jetpacks they will be key transport machines in Jadu#039;s Augmented Reality World: The Mirrorverse."
-date: 2022-03-25T21:57:40+08:00
-lastmod: 2022-03-25T16:45:40+08:00
+description: "Jadu悬浮滑板是NFT，可让您的化身在元宇宙中飞行。与Jadu Jetpacks一起，它们将成为Jadu增强现实世界：镜像宇宙中的关键运输机器。Jadu Hoverboards are NFTs that let your avatars fly in the Metaverse. Along with Jadu Jetpacks they will be key transport machines in Jadu#039;s Augmented Reality World: The Mirrorverse."
+date: 2022-07-13T21:57:40+08:00
+lastmod: 2022-07-13T16:45:40+08:00
 draft: false
 authors: ["june"]
 featuredImage: "479.jpg"
@@ -17,11 +17,8 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-气垫板经典款:平衡良好的 Jadu Hoverboards 让您的化身在 Metaverse 和 Mirrorverse 中以时尚的方式旅行。
+平衡的Jadu悬浮滑板，让您的化身在整个元界和镜像宇宙中以时尚的方式旅行。
 
-悬浮滑板LITE:虽然这些 Hoverboards 可能难以处理并且不会跳得太高，但它们的速度和颜色弥补了这一点。
+悬浮滑板lite，虽然这些悬浮滑板可能很难处理，也不会跳得太高，但它们的敏捷性和色彩弥补了这一点；悬浮滑板二人组，当您的悬浮滑板有空间让两个化身同时飞行时，性能上的一些妥协是合理的；悬浮滑板x，当您的悬浮滑板有空间让两个化身同时飞行时，性能上的一些妥协是合理的。
 
-悬浮滑板二人组:当您的 Hoverboard 有空间让两个化身同时飞行时，性能上的一些妥协是合理的。
-悬浮滑板X
-
-这些稀有的气垫板设计精良，每个都有额外的组件来提高他们的一项统计数据。
+悬浮滑板签名系列，与真正的偶像合作建造和设计的超稀有悬浮滑板：Grimes，Lewis Hamilton，Snoop Dogg，Mimi Onuoha和Trippy。还包括适合两个头像的Jadu电路板。
