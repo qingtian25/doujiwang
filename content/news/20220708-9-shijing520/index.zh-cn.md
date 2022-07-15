@@ -9,7 +9,7 @@ featuredImage: "c02bf758a43683165f095c166241ba4.jpg"
 tags: ["虚拟世界","The Sandbox","Meta Green","数字绿色城市"]
 categories: ["news","Action Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

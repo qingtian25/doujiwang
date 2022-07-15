@@ -9,7 +9,7 @@ featuredImage: "841e43a10d843ce3bafbb6a31d5b0e2.jpg"
 tags: ["新机遇","Roblox","Facebook","VR","Omniverse","Guild of Guardians","mobile games"]
 categories: ["news","Action Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

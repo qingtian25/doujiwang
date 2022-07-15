@@ -9,7 +9,7 @@ featuredImage: "7d1b3a9ac4d13575dc790c874ea700e.jpg"
 tags: ["就业指南","人才争夺战","Oculus Quest","3D角色","Horizon Worlds"]
 categories: ["news","Action Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

@@ -9,7 +9,7 @@ featuredImage: "0180a8692b3ab546ad09e0307090f2a.jpg"
 tags: ["二元平行世界","5G","人工智能","区块链技术"]
 categories: ["news","Action Games","Metaverse","Strategy Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

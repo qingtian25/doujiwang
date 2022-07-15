@@ -9,7 +9,7 @@ featuredImage: "0371b20ceee6509b5a305cc873c2a4d.jpg"
 tags: ["VR和非VR平台","Meta Avatars SDK","身份认同感","虚拟化身"]
 categories: ["news","Action Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

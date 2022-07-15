@@ -9,7 +9,7 @@ featuredImage: "7f54fe1cf8328e5b145445e59419749.jpg"
 tags: ["直播","演唱会","虚拟形象IP","图形技术","中之人","3D虚拟形象"]
 categories: ["news","Action Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

@@ -9,7 +9,7 @@ featuredImage: "1252afa4c44c45b31c709651f4253cd.jpg"
 tags: ["信息","影响","平等世界","发展"]
 categories: ["news","Action Games","Metaverse","Strategy Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

@@ -9,7 +9,7 @@ featuredImage: "c24b98112f6182f9023dce77298dc44.jpg"
 tags: ["NFT","梦幻联动","社交功能","经济系统"]
 categories: ["news","Action Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

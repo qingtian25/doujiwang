@@ -9,7 +9,7 @@ featuredImage: "d79dd0be2668d214f026563b1b959df.jpg"
 tags: ["时代","数字化形态","虚拟分身","模拟化","XR","VR","平行世界"]
 categories: ["news","Action Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

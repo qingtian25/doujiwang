@@ -9,7 +9,7 @@ featuredImage: "0180a8692b3ab546ad09e0307090f2a.jpg"
 tags: ["契机","Facebook","Omniverse","虚拟现实APP"]
 categories: ["news","Action Games"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true
