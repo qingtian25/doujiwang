@@ -1,24 +1,22 @@
 ﻿---
 weight: 
 title: "CryptoSlate"
-description: "自2017年以来，加密技术一直努力成为快速发展和新生的数字资产领域的客观权威。专注于比特币、 defi、 nfts 和 web3，我们的目标是成为新的和成熟的加密货币投资者的首选目的地"
-date: 2022-07-11T10:35:40+08:00
-lastmod: 2022-07-11T10:35:40+08:00
+description: "CryptoSlate的网站提供与区块链和加密货币相关的定期更新的新闻和文章，它还提供ICO，加密货币排名等内容"
+date: 2022-07-20T21:57:40+08:00
+lastmod: 2022-07-20T16:45:40+08:00
 draft: false
-authors: ["Cindy"]
-featuredImage: "8.jpg"
+authors: ["june"]
+featuredImage: "cryptoslate.png"
 link: "https://cryptoslate.com/"
-tags: ["CryptoSlate","数据收集"]
+tags: ["元宇宙资讯","CryptoSlate"]
 categories: ["navigation"]
-navigation: ["数据收集"]
+navigation: ["元宇宙资讯"]
 lightgallery: true
 toc: true
 pinned: false
 recommend: false
 recommend1: false
 ---
-自2017年以来，加密技术一直努力成为快速发展和新生的数字资产领域的客观权威。专注于比特币、 defi、 nfts 和 web3，我们的目标是成为新的和成熟的加密货币投资者的首选目的地。
+CryptoSlate的网站提供与区块链和加密货币相关的定期更新的新闻和文章，它还提供ICO，加密货币排名等内容。
 
-我们是一个由记者和研究人员组成的团队，致力于为加密资产和 web3行业提供一个精心策划和简化的概述。我们的团队分布在四个大洲和五个时区。 cryptoslate 是一个在美国注册的独立组织，在区块链领域没有任何公司拥有或经营。联系我们，请访问我们的联系页面。
-
-我们的使命是简化数字资产的世界，讲述数字资产如何影响社会的不可思议的故事。我们相信，要取得和维持读者的信任，唯一的途径是以完全透明的方式经营媒体和资讯业务。
+CryptoSlate是加密货币研究人员和区块链爱好者的中心 - 以行业新闻，加密价格，产品数据库，公司目录和区块链事件为特色。在比特币，以太坊，美元，欧元，英镑，稳定币等上赚取高达12%的APY。

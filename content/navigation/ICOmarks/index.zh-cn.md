@@ -1,11 +1,11 @@
----
+﻿---
 weight: 
 title: "ICOmarks"
 description: "ICOmarks是ICO的分析和研究一个独立的平台"
-date: 2022-07-08T21:57:40+08:00
-lastmod: 2022-07-08T16:45:40+08:00
+date: 2022-07-19T21:57:40+08:00
+lastmod: 2022-07-19T16:45:40+08:00
 draft: false
-authors: ["qianxun"]
+authors: ["浮尘"]
 featuredImage: "icomarks.jpg"
 link: "https://icomarks.com/"
 tags: ["数据收集","ICOmarks"]

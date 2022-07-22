@@ -1,24 +1,22 @@
 ﻿---
 weight: 
 title: "Pixura"
-description: "Create and Sell Crypto-Collectibles in Minutes. Launch your marketplace today!"
-date: 2022-07-13T21:57:40+08:00
-lastmod: 2022-07-13T16:45:40+08:00
+description: "Pixura 用于创建、跟踪和交换加密数字藏品的平台"
+date: 2022-07-20T14:57:40+08:00
+lastmod: 2022-07-20T14:57:40+08:00
 draft: false
-authors: ["MineW"]
-featuredImage: "272.png"
+authors: ["Simon"]
+featuredImage: "pixura.jpg"
 link: "https://pixura.io/"
-tags: ["Pixura","开发者服务"]
+tags: ["数据分析","Pixura"]
 categories: ["navigation"]
-navigation: ["开发者服务"]
+navigation: ["数据分析"]
 lightgallery: true
 toc: true
 pinned: false
 recommend: false
 recommend1: false
 ---
-在几分钟内创造和出售加密收藏品 今天就推出您的市场! 
+Pixura 用于创建、跟踪和交换加密数字藏品的平台。他们为非技术用户提供 GUI 工具，并为开发人员提供强大的 API，以及自定义集成。其智能合约利用 Open Zepplin 的 ERC-721 标准 Solidity 合约编写。他们已经构建了工具，使任何人都可以轻松地建立交易数字藏品的加密市场。
 
-关于皮库拉
-
-Pixura是一个用于创建，跟踪和交换加密收藏品的平台。Pixura网络界面允许非技术用户在几分钟内创建一个市场。我们为开发人员公开了强大的 API，以及自定义集成。Pixura智能合约利用Open Zepplin的ERC 721标准实体合约。
+Pixura 是一个用于创建、跟踪和交换加密收藏品的平台。我们的网络界面让非技术用户可以在几分钟内创建一个市场。我们为开发人员公开了强大的 API 以及自定义集成。我们的智能合约利用 Open Zepplin 的 ERC 721 标准可靠性合约。
