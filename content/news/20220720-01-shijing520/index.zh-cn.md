@@ -9,7 +9,7 @@ featuredImage: "683976e96ae20dd04bc7b4ebc788722.jpg"
 tags: ["元宇宙场景","互联网的延伸","第三空间","沉浸式","元宇宙体验展望"]
 categories: ["news","Action Games","Role Playing Games","Videos"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

@@ -1,6 +1,6 @@
 ---
 title: "赛博朋克与元宇宙有啥关系？"
-date: 2022-07-07T16:01:40+08:00
+date: 2022-07-07T21:57:40+08:00
 lastmod: 2022-07-07T16:45:40+08:00
 draft: false
 authors: ["MineW"]
@@ -8,7 +8,7 @@ description: "这股风在街舞、音乐、电竞、艺术、鞋衣电商、以
 featuredImage: "cu.png"
 tags: ["元宇宙","赛博朋克"]
 categories: ["news"]
-news: ["元宇宙"]
+news: ["与宇宙"]
 weight: 
 lightgallery: true
 pinned: false

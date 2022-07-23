@@ -1,15 +1,15 @@
 ---
 title: "韩国房价飙涨 年轻人疯买虚拟土地"
-date: 2022-07-04T21:57:40+08:00
-lastmod: 2022-07-04T16:45:40+08:00
+date: 2022-03-24T21:57:40+08:00
+lastmod: 2022-03-24T16:45:40+08:00
 draft: false
 authors: ["MineW"]
 description: "韩国房价频频飙升，高房价以及高保证金的租屋制度之下，让人不敢奢望买房，但现在韩国不少年轻人都转往元宇宙平台购买虚拟土地，一圆买房梦，也让韩国超越争国以及日本，成为热衷投资虚拟土地的国家之一。"
-featuredImage: "hanguo.png"
+featuredImage: "hanguo.jpg"
 tags: ["Android","closed alpha","demo","Ethereum blockchain","GOG token","Guild of Guardians","mobile games"]
 categories: ["news","Action Games"]
 news: ["DeFi-Games"]
-weight: 
+weight: 4
 lightgallery: true
 pinned: false
 recommend: true

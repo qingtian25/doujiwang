@@ -1,13 +1,13 @@
 ---
 title: "存在三十多年的赛博空间画皮元宇宙，未来社会赛博朋克板上钉钉"
-date: 2022-07-07T16:01:40+08:00
+date: 2022-07-07T21:57:40+08:00
 lastmod: 2022-07-07T16:45:40+08:00
 draft: false
 authors: ["MineW"]
 description: "Metaverse和“绿洲”都是赛博空间，元宇宙会加速赛博朋克到来吗?
 元宇宙只是赛博空间的代称，似乎一切都在朝着赛博朋克方向发展
 存在三十多年的赛博空间画皮元宇宙，未来社会赛博朋克板上钉钉"
-featuredImage: "saibo.jpeg"
+featuredImage: "saibo.jpg"
 tags: ["元宇宙","赛博朋克","转变"]
 categories: ["news"]
 news: ["元宇宙"]

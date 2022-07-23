@@ -9,7 +9,7 @@ featuredImage: "guofengyuanyuzhou.jpg"
 tags: ["元宇宙之家","国风","VR绘画","VR探索","穿越式的场景","3D全景"]
 categories: ["news","Action Games","Role Playing Games","Videos"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

@@ -9,7 +9,7 @@ featuredImage: "b0484924b8d9ce3c5af72394e382769.jpg"
 tags: ["元宇宙之家","国内的VR之风","字节","消费级商业场景","VR设备"]
 categories: ["news","Action Games","Role Playing Games","Videos"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

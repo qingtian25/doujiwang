@@ -9,7 +9,7 @@ featuredImage: "8f535c38ede86b6b23bacb8f429a9e3.jpg"
 tags: ["元宇宙之家","Sandbox","Otherlands","Horizon Worlds","Roblox","Fortnite","Decentraland","元宇宙音乐会","元宇宙医疗"]
 categories: ["news","Action Games","Role Playing Games","Videos"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

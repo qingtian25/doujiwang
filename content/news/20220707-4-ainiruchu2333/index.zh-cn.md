@@ -1,11 +1,11 @@
 ---
 title: "从赛博朋克到元宇宙：群体奴役与个体解放"
-date: 2022-07-07T06:57:40+08:00
+date: 2022-07-07T21:57:40+08:00
 lastmod: 2022-07-07T16:45:40+08:00
 draft: false
 authors: ["MineW"]
 description: "“元宇宙”，这个来自科幻小说的自造词汇，不仅击穿了科技界、互联网圈与大众传媒之间的壁垒，而且将关于未来的幻想与焦虑，广泛地散布到了人文学者、政务部门人员以及最广大的网络用户当中。近半个世纪前赛博朋克所描绘的晦暗未来，正在加速弥散成一幅更加混沌的世界图景。"
-featuredImage: "liberaty.jpeg"
+featuredImage: "liberaty.jpg"
 tags: ["元宇宙","赛博朋克"]
 categories: ["news"]
 news: ["元宇宙"]

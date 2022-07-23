@@ -9,7 +9,7 @@ featuredImage: "64ae5a7961e53fd102c266db4e8f115.jpg"
 tags: ["元宇宙愿景","Facebook","经济体系","Blockchain","Interactivity","Internet of Things"]
 categories: ["news","Action Games","Role Playing Games","Videos"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

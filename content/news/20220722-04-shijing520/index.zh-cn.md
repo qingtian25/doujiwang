@@ -9,7 +9,7 @@ featuredImage: "27bd10ddce3864fc6830b3a5f70efde.jpg"
 tags: ["元宇宙之家","GTVerse","元宇宙场景","无聊猿NFT","AI技术"]
 categories: ["news","Action Games","Role Playing Games","Videos"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

@@ -9,7 +9,7 @@ featuredImage: "art.jpg"
 tags: ["元宇宙之家","VR眼镜","数字生活空间","人工智能","区块链","Non-Fungible Token"]
 categories: ["news","Action Games","Role Playing Games","Videos"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

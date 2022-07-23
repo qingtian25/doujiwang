@@ -1,7 +1,7 @@
 ---
 title: "中国版元宇宙”正在迅速发展"
-date: 2022-07-07T16:40:40+08:00
-lastmod: 2022-07-05T16:45:40+08:00
+date: 2022-03-24T21:57:40+08:00
+lastmod: 2022-03-24T16:45:40+08:00
 draft: false
 authors: ["MineW"]
 description: "中国不会错过对这种新生态系统的构建。中国特色的元宇宙正在建设中，而它可能最终成为一个价值数万亿美元的市场，中国的元宇宙发展前程似锦。"
@@ -9,7 +9,7 @@ featuredImage: "P.jpg"
 tags: ["元宇宙","中国"]
 categories: ["news"]
 news: ["元宇宙"]
-weight: 
+weight: 4
 lightgallery: true
 pinned: false
 recommend: true

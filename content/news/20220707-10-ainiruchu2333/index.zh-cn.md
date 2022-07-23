@@ -1,11 +1,11 @@
 ---
 title: "元宇宙与“赛博监狱”"
-date: 2022-07-07T06:57:40+08:00
+date: 2022-07-07T21:57:40+08:00
 lastmod: 2022-07-07T16:45:40+08:00
 draft: false
 authors: ["MineW"]
 description: "二十多年后，这部小说成了硅谷无数人心中的神作。许多工程师、企业家、未来主义者和极客将《雪崩》视为对当今科技领域的绝佳预言。也正是它，催生了人们对 Metaverse（元宇宙）的热情。"
-featuredImage: "GUOJIA.png"
+featuredImage: "GUOJIA.jpg"
 tags: ["元宇宙","赛博朋克"]
 categories: ["news"]
 news: ["元宇宙"]

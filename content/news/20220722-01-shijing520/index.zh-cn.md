@@ -9,7 +9,7 @@ featuredImage: "64ae5a7961e53fd102c266db4e8f115.jpg"
 tags: ["元宇宙之家","Decentralization","Property","self-sovereign identity","Composability","Open Source","Community ownership","Social immersion"]
 categories: ["news","Action Games","Role Playing Games","Videos"]
 news: ["DeFi-Games"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true
