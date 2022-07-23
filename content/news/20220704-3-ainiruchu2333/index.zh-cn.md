@@ -5,7 +5,7 @@ lastmod: 2022-03-24T16:45:40+08:00
 draft: false
 authors: ["MineW"]
 description: "对于雏形中的事物可以有千万种解读，有人觉得元宇宙炒房是击鼓传花的游戏，不过是包装了的骗局；有人认为这是未来世界的一种生活方式，有流量有价值就可以投资。那么元宇宙炒房到底是割韭菜还是新风口？"
-featuredImage: CRAZY.jpg"
+featuredImage: "CRAZY.jpg"
 tags: ["元宇宙","炒房"]
 categories: ["news"]
 news: ["元宇宙"]
