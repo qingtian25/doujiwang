@@ -9,7 +9,7 @@ featuredImage: "1658281266472.jpg"
 tags: ["元宇宙","元宇宙发展","虚拟形象"]
 categories: ["news"]
 news: ["元宇宙"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true
