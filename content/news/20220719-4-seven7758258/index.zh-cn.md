@@ -9,7 +9,7 @@ featuredImage: "1658196054360.jpg"
 tags: ["元宇宙","5G","XR"]
 categories: ["news"]
 news: ["元宇宙"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

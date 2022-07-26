@@ -9,7 +9,7 @@ featuredImage: "1658194468634.jpg"
 tags: ["元宇宙","元宇宙创造","元宇宙核心"]
 categories: ["news"]
 news: ["元宇宙"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

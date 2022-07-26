@@ -9,7 +9,7 @@ featuredImage: "1658365892915.jpg"
 tags: ["元宇宙","AR","元宇宙发展"]
 categories: ["news"]
 news: ["元宇宙"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

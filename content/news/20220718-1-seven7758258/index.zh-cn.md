@@ -9,7 +9,7 @@ featuredImage: "1658107943598.JPG"
 tags: ["元宇宙","Web3.0","元宇宙技术"]
 categories: ["news"]
 news: ["元宇宙"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true

@@ -9,7 +9,7 @@ featuredImage: "1658389049516.jpg"
 tags: ["元宇宙","元宇宙发展","AI"]
 categories: ["news"]
 news: ["元宇宙"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true
