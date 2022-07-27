@@ -1,9 +1,3 @@
-<meta content="{{ delimit .Keywords ", " }}" name="keywords">
-
-<meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}" property="og:title">
-
-<meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }} - {{ .Description }}{{ end }}" property="og:description">
-
 {{- $params := .Scratch.Get "params" -}}
 
 <meta name="Description" content="{{ $params.description | default .Site.Params.description }}">
@@ -19,6 +13,3 @@
 {{- with .Site.Params.app.tileColor -}}
     <meta name="msapplication-TileColor" content="{{ . }}">
 {{- end -}}
-
-
-

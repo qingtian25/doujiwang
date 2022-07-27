@@ -1,9 +1,9 @@
 {{- define "title" }}
 {{ if T .Title }}
-    {{ T .Title }}
-   {{ else }}
-    {{ .Title }}
-   {{ end }}
+				{{ T .Title }}
+			{{ else }}
+				{{ .Title }}
+			{{ end }}
  - {{ .Site.Title }}{{ end -}}
 {{- define "list" }}
     {{- .Params.Title | default (T .Section) | default .Section | dict "Some" | T "allSome" }} - {{ .Site.Title -}}
