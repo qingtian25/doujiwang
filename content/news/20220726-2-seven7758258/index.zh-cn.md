@@ -9,7 +9,7 @@ featuredImage: "1658828509371.jpg"
 tags: ["元宇宙","元宇宙发展","元宇宙经济"]
 categories: ["news"]
 news: ["元宇宙"]
-weight: 4
+weight: 
 lightgallery: true
 pinned: false
 recommend: true
